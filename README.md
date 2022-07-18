@@ -57,3 +57,9 @@ But I'm interested in exploring:
 - mutation testing
 - formal verification
 - contract based languages
+
+## Can't code without
+
+- VSCode
+- Static code analysis (psalm, eslint)
+- Auto formatting (php-cs-fixer, prettier)
